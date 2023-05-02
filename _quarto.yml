@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs # where files are rendered to
 
 website:
   title: "eliason-lab-test"
